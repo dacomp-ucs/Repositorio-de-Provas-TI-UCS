@@ -21,3 +21,4 @@ O mínimo que você vai precisar é saber usar Git. Não permitimos commits dire
 2. Com o projeto na sua máquina, crie uma nova branch usando `git checkout -b <SUA_BRANCH>`, ou o GitHub CLI. Por favor, crie branchs com nomes curtos.
 3. Faça suas contribuições. Pode adicionar o máximo de provas ou projetos que puder. 
 4. Adicione tudo o que fez com `git add <ARQUIVOS_ADICIONADOS>` e comite suas contribuições com `git commit -m "<SUA_MENSAGEM_DE_COMMIT>"`
+5. Publique sua branch com `git push`
