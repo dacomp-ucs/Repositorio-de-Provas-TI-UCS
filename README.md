@@ -16,11 +16,26 @@ O mínimo que você vai precisar é saber usar Git. Não permitimos commits dire
 2. Crie uma conta no Github (meio óbvio)
 
 ### Obtendo o projeto e contribuindo
-1. Clone o projeto executando, na linha de comando: `git clone git@github.com:Marcellofabrizio/Repositorio-de-Provas-Computacao-UCS.git`. Com GitHub CLI, use: `gh repo clone Marcellofabrizio/Repositorio-de-Provas-Computacao-UCS`
-2. Com o projeto na sua máquina, crie uma nova branch usando `git checkout -b <SUA_BRANCH>`, ou o GitHub CLI. Por favor, crie branchs com nomes curtos.
-3. Faça suas contribuições. Pode adicionar o máximo de provas ou projetos que puder. 
-4. Adicione tudo o que fez com `git add <ARQUIVOS_ADICIONADOS>` e comite suas contribuições com `git commit -m "<SUA_MENSAGEM_DE_COMMIT>"`
-5. Publique sua branch com `git push origin <SUA_BRANCH>`
+1. Navegue até o projeto em https://github.com/Marcellofabrizio/Repositorio-de-Provas-Computacao-UCS
+2. Clique em **Criar Bifurcação**
+3. Na nova tela, não altere nada, clique novamente em **Criar Bifurcação**
+
+### Clonando a bifurcação
+Você criou com sucesso o repositório mas, até agora, ele existe apenas em GitHub. Para poder contribuir no projeto, você deverá cloná-lo para o seu computador.
+
+1. No GitHub, navegue até o seu fork do repositório
+2. Acima da lista de arquivos, clique em **Código**
+3. Copie a URL do repositório.
+   1. Para clonar o repositório usando HTTPS, clique em "HTTPS"
+   2. Para clonar o repositório usando uma chave SSH, clique em SSH. Para isso precisará ter suas chaves SSH [configuradas](https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+   3. Para clonar um repositório usando GitHub CLI, clique em GitHub`CLI 
+4. Digite `git clone` e cole a URL copiada
+5. Com o projeto na sua máquina, crie uma nova branch usando `git checkout -b SUA_BRANCH`, ou o GitHub CLI. Por favor, crie branchs com nomes curtos.
+6. Faça suas contribuições. Pode adicionar o máximo de provas ou projetos que puder. 
+7. Adicione tudo o que fez com `git add ARQUIVOS_ADICIONADOS` e comite suas contribuições com `git commit -m "SUA_MENSAGEM_DE_COMMIT"`
+8. Publique sua branch com `git push origin SUA_BRANCH`
 
 ### Criando um Pull Request
-Como dito anteriormente, a branch master é controlada, assim, só serão adicionadas contribuições através de de [Pull Requests]()
+Como dito anteriormente, a branch master é controlada, assim, só serão adicionadas contribuições através de de Pull Requests. Para fazer isso, acesse o repositório GitHub onde seu projeto bifurcado encontra-se. Você verá uma notificação indicando que a branch está um commit à frente de Marcellofabrizio:master. Clique em Contribuir e em Abrir uma solicitação de pull.
+
+O GitHub levará você para uma página que mostra as diferenças entre o fork e o repositório Marcellofabrizio/Repositorio-de-Provas-Computacao-UCS. Clique em Criar solicitação de pull.
