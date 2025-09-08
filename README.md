@@ -6,7 +6,9 @@ Agradecimentos ao [Marcello](https://github.com/Marcellofabrizio), que junto ao 
 
 ## Estrutura de pastas
 Cada disciplina é representada por uma pasta, que possui diversos arquivos com as provas anteriores daquela disciplina. Os arquivos devem ter um nome padrão, seguindo a seguinte nomencaltura: `Número da Prova/Trabalho;Disciplina;Ano-Semestre;Aluno;Professor`. Esse padrão permite que seja possível que múltiplos alunos contribuam com provas feitas na mesma disciplina, e todas as informações necessárias para quem procura a referência estejam disponíves já no título. 
+
 Exemplos:
+
 Prova 1;Programação 1;2022-1;Cadinho;Pedro Pacheco.pdf
 
 Prova 1;Programação 1;2022-1;Cadinho;Eduardo Pereira.pdf
