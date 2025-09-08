@@ -14,7 +14,7 @@ Programação 1;2022-1;Cadinho;Eduardo Pereira.pdf
 Programação 1;2022-1;Krohn;Anderson Rizzi.pdf
 
 ## Como contribuir
-O repositório busca armazenar provas e trabalhos para facilitar os estudos dos estudantes de computação da UCS. Provas são bem-vindas independentemente da nota ou da presença de resolução das questões. Trabalhos, no entanto, devem ser publicados apenas com o enunciado, que pode ser convertido para PDF pela janela do AVA utilizando o comando CTRL+P. Para contribuir com o projeto, siga as instruções abaixo, sabendo que não são permitidos commits diretos na branch master. O repositório de provas, embora aberto, vai ser controlado pelo DA para evitar distúrbios. Siga os passos abaixo para contribuir neste projeto:
+O repositório busca armazenar provas e trabalhos para facilitar os estudos dos estudantes de computação da UCS. Provas são bem-vindas independentemente da nota ou da presença de resolução das questões. Trabalhos, no entanto, devem ser publicados apenas com o enunciado, que pode ser convertido para PDF pela janela do AVA utilizando o comando CTRL+P. Para contribuir com o projeto, siga as instruções abaixo. Siga os passos abaixo para contribuir neste projeto:
 
 ### Preparação
 1. Instale o [Git](https://git-scm.com/downloads)
@@ -39,7 +39,7 @@ Você criou com sucesso o repositório, mas, até agora, ele existe apenas no Gi
    ```
 5. Em seu computador, crie novas pastas e adicione os PDFs de suas provas dentro da estrutura.
 6. Adicione suas mudanças utilizando `git add .` e envie suas alterações com `git commit`. Se quiser, complemente com `-m "SUA MENSAGEM"`.
-7. Publique suas alterações em seu repositório do GitHub com `git push origin master`. É possível que uma janela do navegador abra para você se autenticar com a conta que havia configurado. Coloque suas credenciais e espere a mensagem de que pode fechar aquela aba.
+7. Publique suas alterações em seu repositório do GitHub com `git push origin`. É possível que uma janela do navegador abra para você se autenticar com a conta que havia configurado. Coloque suas credenciais e espere a mensagem de que pode fechar aquela aba.
 
 ### Atualizando este repositório com Pull Request
 A fim de manter a qualidade do repositório, a sua contribuição será analisada antes de ser integrada ao repositório. Para isso, usamos o mecanismo de Pull Requests do GitHub. Acesse sua conta do GitHub e vá até seu repositório com fork. Você verá uma notificação indicando que a branch está um commit à frente de original. Clique em Contribuir e em Abrir um Pull Request.
