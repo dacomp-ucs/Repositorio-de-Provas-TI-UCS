@@ -5,7 +5,7 @@ Este é um repositório de provas dos cursos de computação da UCS gerenciado p
 Agradecimentos ao [Marcello](https://github.com/Marcellofabrizio), que junto ao DA da época, iniciou esse repositório.
 
 ## Estrutura de pastas
-Cada disciplina é representada por uma pasta, que possui diversos arquivos com as provas anteriores daquela disciplina. Os arquivos devem ter um nome padrão, seguindo a seguinte nomencaltura: `Número da Prova/Trabalho;Disciplina;Ano-Semestre;Aluno;Professor`. Esse padrão permite que seja possível que múltiplos alunos contribuam com provas feitas na mesma disciplina, e todas as informações necessárias para quem procura a referência estejam disponíves já no título. 
+Cada disciplina é representada por uma pasta, que possui diversos arquivos com as provas anteriores daquela disciplina. Os arquivos devem ter um nome padrão, seguindo a seguinte nomencaltura: `Número da Prova/Trabalho;Ano-Semestre;Aluno;Professor`. Esse padrão permite que seja possível que múltiplos alunos contribuam com provas feitas na mesma disciplina, e todas as informações necessárias para quem procura a referência estejam disponíves já no título. O nome da disciplina é dispensável pois já está na pasta. 
 
 Exemplos:
 
