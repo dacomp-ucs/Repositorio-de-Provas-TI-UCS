@@ -15,7 +15,7 @@ Prova 1;Programação 1;2022-1;Cadinho;Eduardo Pereira.pdf
 
 TDE 1;Programação 1;2022-1;Krohn;Anderson Rizzi.pdf
 
-Jogo malígno;Arquitetura de Computadores;2023-2;Adami;.pdf
+Jogo malígno;2023-2;Adami;.pdf
 
 ## Como contribuir
 O repositório busca armazenar provas e trabalhos para facilitar os estudos dos estudantes de computação da UCS. Provas são bem-vindas independentemente da nota ou da presença de resolução das questões. Trabalhos, no entanto, devem ser evitadas implementações, para evitar cópias. O enunciado, no entanto, é permitido, e pode ser convertido para PDF pela janela do AVA utilizando o comando CTRL+P. Para contribuir com o projeto, siga as instruções abaixo. Siga os passos abaixo para contribuir neste projeto:
