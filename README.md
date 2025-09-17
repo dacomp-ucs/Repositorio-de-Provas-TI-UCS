@@ -26,7 +26,7 @@ Exemplos:
 🔧[EM CONSTRUÇÃO]🔧 Além das provas, cada disciplina contém um arquivo chamado `BIBLIOGRAFIA.md`. O arquivo contém a lista dos livros utilizados como bibliografia na disciplina, definidos tanto pelo MEC quanto pelos professores, além de uma lista auxiliar de livros, artigos, vídeos, ou materiais diversos que podem ser compartilhados pelos alunos para contribuir no estudo dos demais. Sempre que você ver algum vídeo que explica muito bem algum conceito ou ajuda a enteder a matéria da aula, pode contribuir com a bibliografia ao adicionar a url lá para que outros alunos possam aproveitar o material também.
 
 ## Como contribuir
-O repositório busca armazenar provas e trabalhos para facilitar os estudos dos estudantes de computação da UCS. Provas são bem-vindas independentemente da nota ou da presença de resolução das questões. Trabalhos, no entanto, devem ser evitadas implementações, para evitar cópias. O enunciado, no entanto, é permitido, e pode ser convertido para PDF pela janela do AVA utilizando o comando CTRL+P. Para contribuir com o projeto, siga as instruções abaixo. Siga os passos abaixo para contribuir neste projeto:
+O repositório busca armazenar provas e trabalhos para facilitar os estudos dos estudantes de computação da UCS. Provas são bem-vindas independentemente da nota ou da presença de resolução das questões. Trabalhos, no entanto, devem, se possível, ser enviados sem implementações, para evitar cópias. O enunciado, no entanto, é permitido, e pode ser convertido para PDF pela janela do AVA utilizando o comando CTRL+P. Para contribuir com o projeto, siga as instruções abaixo:
 
 ### Preparação
 1. Instale o [Git](https://git-scm.com/downloads)
